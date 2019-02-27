@@ -2,21 +2,10 @@ body {
   background-color: red;
 }
 
-#clock {
-  height: 100%;
-  width: 100%;
-  margin: auto;
-  position: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 200%;
-  text-align: center;
-}
-
 #color{
   height: 100%;
   width: 100%;
-  margin: auto;
+  margin: 0;
   position: flex;
   justify-content: center;
   align-items: center;
@@ -27,7 +16,7 @@ body {
 div{
   background: white;
   width: 50%;
-  margin: 0 auto;
+  margin: 0;
   position: flex;
   justify-content: center;
   align-items: center;
